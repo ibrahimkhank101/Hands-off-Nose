@@ -32,7 +32,8 @@ If any point of the hand comes within a set threshold distance from the nose tip
 
 ## 🎥 Demo
 
-*(Add a GIF or video link here)*
+[![Watch the demo]([https://youtu.be/YOUR_VIDEO_ID_HERE](https://youtu.be/-RIvnhOtZEs))
+
 
 ---
 
